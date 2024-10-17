@@ -4,9 +4,16 @@ body {
      margin: opx;
      font-family:"permanent+marker", sans-serif;
  }
+
+ header{
+     border-bottom: solid 2px rgb(0, 0, 0);
+     padding: 20px;
+     font-size: 32px;
+     color: rgb(255, 0, 0);
+ }
  
- section {
-     background-color: rgb(184, 156, 213);
+ section { 
+     background-color: rgb(119, 0, 247);
      padding-bottom: 80px;
      padding-top: 80px;
      display: flex;
